@@ -1,4 +1,14 @@
-### Hi there 👋
+<h1>Hello, I'm Mike!
+
+<h2>👨‍💻 Home Lab:</h2>
+
+- <b>Cyber Security Projects</b>
+  - [Nessus VM](https://github.com/mluciotti)
+  - [Azure Sentinel w/ Intrusion Heat Map](https://github.com/mluciotti)
+- <b>Powershell</b>
+  - [PoC File Integrity Monitor](https://github.com/mluciotti)
+- <b>Python</b>
+  - [Hello World](https://github.com/mluciotti)
 
 <!--
 **mluciotti/mluciotti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
