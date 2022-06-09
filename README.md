@@ -7,6 +7,9 @@
   - [Azure Sentinel w/ Intrusion Heat Map](https://github.com/mluciotti/sentinel)
 - <b>Powershell</b>
   - [PoC File Integrity Monitor](https://github.com/mluciotti/PowerShellPOC-FileIntegrity-FIM)
+- <b>Active Directory</b>
+  - [Active Directory in VM](https://github.com/mluciotti/active_dir)
+  
 - <b>Python</b>
   - [In progress](https://github.com/mluciotti)
 
