@@ -3,12 +3,12 @@
 <h2>👨‍💻 Home Lab:</h2>
 
 - <b>Cyber Security Projects</b>
-  - [Nessus VM](https://github.com/mluciotti)
-  - [Azure Sentinel w/ Intrusion Heat Map](https://github.com/mluciotti)
+  - [Nessus Essentials](https://github.com/mluciotti/nessus_lab)
+  - [Azure Sentinel w/ Intrusion Heat Map](https://github.com/mluciotti/sentinel)
 - <b>Powershell</b>
-  - [PoC File Integrity Monitor](https://github.com/mluciotti)
+  - [PoC File Integrity Monitor](https://github.com/mluciotti/PowerShellPOC-FileIntegrity-FIM)
 - <b>Python</b>
-  - [Hello World](https://github.com/mluciotti)
+  - [In progress](https://github.com/mluciotti)
 
 <!--
 **mluciotti/mluciotti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
